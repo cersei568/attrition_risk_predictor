@@ -6,8 +6,8 @@ A sophisticated employee attrition risk prediction and management system built w
 
 ## 🔗 Links  
 
-- **Demo:** [demo.skillsyncpro.com](https://skillssyncpro.streamlit.app)  
-- **GitHub:** [blog.skillsyncpro.com](https://github.com/cersei568/skills_gap_analyzer)  
+- **Demo:** [Demo](https://attritionriskpredictor.streamlit.app)  
+- **GitHub:** [GitHub](https://github.com/cersei568/attrition_risk_predictor)  
 
 ## ✨ Features
 
